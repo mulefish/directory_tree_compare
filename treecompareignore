@@ -1,0 +1,8 @@
+# Folder names can appear anywhere in either tree.
+node_modules/
+.git
+*.pyc
+*.class
+*.jar
+*.pdf
+*.txt
