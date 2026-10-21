@@ -1,12 +1,13 @@
 # Tree Compare
 
 ## repo
+https://github.com/mulefish/directory_tree_compare
 
 ## Flask
 python server.py 
 
 ## screenshot
-![Demo of Diff](images/demo-of-diff.png)
+![Demo of Diff](demo-of-diff.png)
 
 ## powershell
 python server.py "C:\path\to\left" "C:\path\to\right" --json
